@@ -3,8 +3,7 @@
 - 📘 Estudante de Análise e Desenvolvimento de Sistemas
 
 
-![Leandro GitHub stats](https://github-readme-stats.vercel.app/api?username=Leandr0fs&show_icons=true&theme=tokyonight)
-
+![Leandro GitHub stats](https://github-readme-stats.vercel.app/api?username=Leandr0fs&show_icons=true&theme=tokyonight) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leandr0fs&layout=compact)
 
 ## Tecnologias que eu uso no meu dia.
