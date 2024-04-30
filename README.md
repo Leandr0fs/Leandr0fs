@@ -1,8 +1,6 @@
 ### Olá! Eu sou o Leandro Ferreira 👋
 [![Linkedim](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-ferreira-santos-656b91278)
-- 💻 Programador
-- 📘 Estudante de Análise e Desenvolvimento de Sistemas <br/>
- 
+##
 ![Leandro GitHub stats](https://github-readme-stats.vercel.app/api?username=Leandr0fs&show_icons=true&theme=tokyonight) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leandr0fs&layout=compact)
 
